@@ -1,8 +1,13 @@
-# React + Vite
+Food Recipes App
+A modern and responsive Food Recipes App built with React.js, styled using Tailwind CSS, and enhanced with JavaScript for interactive features. This application allows users to explore, search, and view various delicious recipes with an intuitive and user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Features
+- Browse Recipes: Explore a wide variety of recipes with details like ingredients and preparation steps.
+- Search Functionality: Quickly find recipes by name or ingredient.
+- Responsive Design: Fully optimized for desktop, tablet, and mobile devices using Tailwind CSS.
+- Built with React: High-performance and dynamic UI powered by React.js.
+  
+Technologies Used-
+React.js: Frontend library for building the user interface.
+Tailwind CSS: Utility-first CSS framework for modern styling.
+JavaScript : Adding interactivity and handling logic.
